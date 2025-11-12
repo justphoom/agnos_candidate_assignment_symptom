@@ -10,3 +10,6 @@ Second, to predict the additional symptoms, this requires a language model to ca
 In addition, the result and screenshots are attached below.
 
 This is the like for a playable prototype: https://agnoscandidateassignmentsymptom-4qvey6kzdisveh7vapftxe.streamlit.app/
+
+/example1.png
+/example2.png
