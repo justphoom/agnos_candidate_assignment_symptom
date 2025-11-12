@@ -11,5 +11,8 @@ In addition, the result and screenshots are attached below.
 
 This is the like for a playable prototype: https://agnoscandidateassignmentsymptom-4qvey6kzdisveh7vapftxe.streamlit.app/
 
-/example1.png
-/example2.png
+Example 1 :
+![image alt](/example1.PNG)
+
+Example 2 :
+![image alt](/example2.PNG)
